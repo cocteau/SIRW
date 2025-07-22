@@ -123,7 +123,13 @@
     "publication": "20 Minuten",
     "position": "Deputy Manager",
     "country": "Switzerland",
-    "bio": "Céline Trachsel is a crime reporter at 20 Minuten, Switzerland’s largest news platform. Raised in the Canton of Bern, she studied journalism at the Zurich University of Applied Sciences (ZHAW) and recently completed a Bachelor of Law. With over 15 years of newsroom experience, she has covered everything from major court cases to crime and social aﬀairs. Trachsel is especially passionate about investigative reporting and legal journalism. Her career has included key editorial roles at Ringier and Tamedia, and she currently focuses on regional news in the Zurich area.   Christof Vuille Head of Politics, 20 Minuten Christof Vuille grew up in the canton of Bern and studied media studies, history and law at the University of Fribourg. He has worked in political journalism for 14 years and is passionate about stories from the Federal Palace that resonate across the country and spark public debate. He is currently the head of politics at 20 Minuten, Switzerland’s largest media outlet. In his free time, he enjoys jogging, swimming in the river, and spending time with friends."
+    "bio": "Céline Trachsel is a crime reporter at 20 Minuten, Switzerland’s largest news platform. Raised in the Canton of Bern, she studied journalism at the Zurich University of Applied Sciences (ZHAW) and recently completed a Bachelor of Law. With over 15 years of newsroom experience, she has covered everything from major court cases to crime and social aﬀairs. Trachsel is especially passionate about investigative reporting and legal journalism. Her career has included key editorial roles at Ringier and Tamedia, and she currently focuses on regional news in the Zurich area."
+  },
+  {"name":"Christof Vuille",
+   "publication":"20 Minuten", 
+   "position":"Head of Politics",
+   "country":"Switzerland",
+   "bio":"Christof Vuille grew up in the canton of Bern and studied media studies, history and law at the University of Fribourg. He has worked in political journalism for 14 years and is passionate about stories from the Federal Palace that resonate across the country and spark public debate. He is currently the head of politics at 20 Minuten, Switzerland’s largest media outlet. In his free time, he enjoys jogging, swimming in the river, and spending time with friends."
   },
   {
     "name": "Ryotaro Yamada",
